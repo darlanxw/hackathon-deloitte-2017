@@ -1,31 +1,23 @@
 # Hackathon Deloitte 2017
-Instruções para o Hackathon Deloitte 2017
 
-## O que é?
-
-Think of this as the story that you tell your friends and family when they ask what you are spending all of your waking time doing and why you don't return their calls in a timely manner. This also gives you an opportunity to think a bit about what you are writing before you spend a bunch of time writing the wrong code.
+A Deloitte convida você a continuar avançando na jornada digital ao promover o Hackathon 2017 – uma iniciativa que reflete nossa proposta de construir, de forma disruptiva, ambientes colaborativos, ágeis e que fomentam a inovação, criando o impacto que realmente importa às pessoas, à sociedade e aos negócios.
 
 ## Código dos projetos
-This section contains a short description of what your project does. This will give people looking at your repository a basic understanding of what problem your site is trying to address, why it is cool and why you are spending so much time working on it.
+
+Os códigos dos projetos deverão ser versionados no Github.
 
 ## Como utilizar o Git/Github
 
-Please follow the steps below to get this site set up for local development.
+* [Git](https://git-scm.com/)
+* [Tudo que você queria saber sobre Git e Github mas tinha vergonha de perguntar](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
 
-1. Step 1
-1. Step 2
-1. Step 3
-1. Step 4 ...
+## Ferramentas disponíveis
 
-## Links importantes
+A Deloitte em parceria com a IBM disponibilizará as seguintes ferramentas para ajuda-los nos desenvolvimentos dos projetos.
 
-* [Tracker](http://pivotaltracker.com/some_tracker_project)
-* [Staging](http://some-staging-app.herokuapp.com)
-* [Production](http://some-production-app.herokuapp.com)
+* [IBM Bluemix](https://www.ibm.com/cloud-computing/bluemix/)
+* [IBM Watson](https://www.ibm.com/watson/br-pt/)
 
-Please follow the steps below to get this site set up for local development.
+## Envio dos projetos
 
-Step 1
-Step 2
-Step 3
-Step 4 ...
+Os projetos devem ser enviados através do [formulário de envio](https://google.com/)
